@@ -1,3 +1,7 @@
 Alice loves coffeeBob loves tea
 Charis loves juice
+<<<<<<< HEAD
 Chris's idea
+=======
+Alice's idea
+>>>>>>> 93ad14e40f21943fb1e22bdf8f236858e7608a63
